@@ -8,7 +8,7 @@ class App extends Component {
       <div className="App">
         <div className="body-one">
           <div className="header">
-            <h1 className="title"> ENGINEERS WEEK 2018</h1>
+            <h1 className="title">ENGINEERS WEEK 2018</h1>
           </div>
           <div> 
             <h3 className="desc">April 9 - April 13, 2018</h3>
@@ -70,12 +70,12 @@ class App extends Component {
                 <p>Time: 11 am - 12 pm</p>
               </div>
               <div className="testevent">
-                <p className="event-title">Event: Bruins and the Oobleck hosted by Beam
-                <br />Time: 12 - 1 pm</p>
+                <p className="event-title">Event: Bruins and the Oobleck hosted by Beam</p>
+                <p>Time: 12 - 1 pm</p>
               </div>
               <div className="testevent">
-                <p className="event-title">Event: Coding Challenge hosted by UPE
-                <br />Time: 1 - 2 pm</p>
+                <p className="event-title">Event: Coding Challenge hosted by UPE</p>
+                <p>Time: 1 - 2 pm</p>
               </div>
             </div>
           </div>
@@ -110,9 +110,6 @@ class App extends Component {
               </div>
             </div>
           </div>
-        </div>
-        <div className="about">
-
         </div>
       </div>
     );
